@@ -1,0 +1,9 @@
+body {
+    background-color: tomato;
+    max-height: 100vh;
+}
+
+h1 {
+    color: bisque;
+    margin-left: 20px;
+}
