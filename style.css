@@ -7,3 +7,12 @@ h1 {
     color: bisque;
     margin-left: 20px;
 }
+.image {
+    width: 100%;
+    max-width: 960px;
+}
+
+.imageGit {
+    width: 100%;
+    max-width: 640px;
+}
